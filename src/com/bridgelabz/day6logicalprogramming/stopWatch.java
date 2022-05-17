@@ -43,6 +43,7 @@ public class stopWatch {
         startTime();
         System.out.println("Enter 2 to stop");
         s.next();
+
         stopTime();
         elapsedTime();
     }
